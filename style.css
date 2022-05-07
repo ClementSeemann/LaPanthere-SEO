@@ -513,6 +513,7 @@ button {
 }
 
 .form-control {
+    display: flex;
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
 }
