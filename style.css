@@ -379,7 +379,7 @@ a:hover {
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
-        color: #484848;
+        color: #FFFFFF;
     }
     .nav-invert .site-navigation {
         left: 0;
@@ -656,12 +656,15 @@ h6,
 p,
 label,
 .btn,
+
 a {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
-
+.col-sm-4{
+    color: #FFFFFF;
+}
 .container {
     max-width: 1000px;
 }
@@ -783,7 +786,7 @@ h4 {
 }
 
 .tc-white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
