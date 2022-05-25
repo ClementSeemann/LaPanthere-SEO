@@ -2,18 +2,18 @@
   "name": "projet4",
   "version": "1.0.0",
   "description": "optimisation SEO du site La Panthère",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ClementSeemann/Projet4.git"
+    "url": "https://github.com/ClementSeemann/Projet4.git"
   },
   "author": "Clement Seemann",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ClementSeemann/Projet4/issues"
   },
-  "homepage": "https://github.com/ClementSeemann/Projet4#readme"
+  "homepage": "https://github.com/ClementSeemann/Projet4"
 }
